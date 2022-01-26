@@ -1,5 +1,8 @@
 # Recommender-Systems-Challenge-2021
 [Kaggle competition](https://www.kaggle.com/c/recommender-system-2021-challenge-polimi) for the course Recommender Systems from Politecnico di Milano (A.Y. 2021-2022). Our implementarions intensively use the library of the Recommender Systems course repository which can be found [here](https://github.com/MaurizioFD/RecSys_Course_AT_PoliMi).
+## Members
+[Antonio Ercolani](https://github.com/antonio-ercolani)  
+[Francesco Romanò](https://github.com/romano-francesco)
 ## The task
 The task was to create the best possible recommender of TV programs, exploiting informations of users, items and user-item interactions present in the [dataset](https://github.com/romano-francesco/Recommender-Systems-Challenge-2021/tree/main/Dataset).
 ## Our work
